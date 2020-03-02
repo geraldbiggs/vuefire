@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuejs/vuefire.git"
+    "url": "git+https://github.com/geraldbiggs/vuefire.git"
   },
   "keywords": [
     "vuex",

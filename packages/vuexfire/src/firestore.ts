@@ -112,6 +112,7 @@ export function firestoreAction<S, R>(
   action: (context: FirestoreActionContext<S, R>, payload: any) => any
 ): Action<S, R> {
   return function firestoreEnhancedActionFn(context, payload) {
+    console.log(context)
     // get the local state and commit. These may be bound to a module
     const { state, commit } = context
     const ops: OperationsType = {

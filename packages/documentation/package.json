@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuejs/vuefire.git"
+    "url": "git+https://github.com/geraldbiggs/vuefire.git"
   },
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.0.2",
